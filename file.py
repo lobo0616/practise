@@ -12,4 +12,3 @@ def readfile(filename):
     f1.close()
 if __name__ == "__main__":
     readfile("data.dat")
-    
